@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_70ff6aa39da03c0787fda315746af71becf8043c.jar" />
+    </item>
+    <item
+        jar="/Users/joye/develop/android/tools/sdk/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_bd092fbf8be0e67c1b00650f861d0b5d9104e9cc.jar" />
+    </item>
+    <item
+        jar="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_670e437efbcf0291242d4c4b6f3afb2ddb09fd37.jar" />
+    </item>
+    <item
+        jar="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.0_407931f0012f0a8bc299044bf73b3edd52283593.jar" />
+    </item>
+    <item
+        jar="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/4.0.8/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aadfe3abbb366d8fb3c0e5350db1aaa6e0f6127">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/com.mikepenz-materialdrawer-4.0.8_296ce73bbb14f9f7e725364e53dbb6ed583d1e56.jar" />
+    </item>
+    <item
+        jar="/Users/joye/develop/android/tools/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/glide-3.6.0_a3c86e94d6e0653d3955b127a6b45c69c035ee3b.jar" />
+    </item>
+    <item
+        jar="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_3ee59d8e166cbcc5eb269e0be039c39e7b478089.jar" />
+    </item>
+    <item
+        jar="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_b02333a0183f5a2b8acade777cc2f6bdee6a76a3.jar" />
+    </item>
+    <item
+        jar="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_2f5398333e99ac7c13a8eac18db851f95f6aa85e.jar" />
+    </item>
+    <item
+        jar="/Users/joye/develop/android/tools/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.7/cd78109020f9ec803ef4e652c17ee4615b03e20a/android-async-http-1.4.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cd78109020f9ec803ef4e652c17ee4615b03e20a">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.7_ccf55a1e7cde9c7e81eb62fa8ffaad874a3fd5b3.jar" />
+    </item>
+    <item
+        jar="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_d2da745a0d0804885b2cb953105853fd32fb719a.jar" />
+    </item>
+    <item
+        jar="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-1.3.0_1c13801aa7f0e62bb35b2af66ef02597eab0b2d3.jar" />
+    </item>
+    <item
+        jar="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/exploded-aar/com.mikepenz/materialize/0.2.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3e33417d80e79d82adb03a964540362d4e2ca5ef">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/com.mikepenz-materialize-0.2.5_5119cb746de61a488edb7bbb21d194c3a2c89225.jar" />
+    </item>
+    <item
+        jar="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/1.7.6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea05949390565bd6d714ac7d99158b3c0bc6a175">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/com.mikepenz-iconics-core-1.7.6_6e1e297cac636ee457a1e8104bb69c7499661fdb.jar" />
+    </item>
+    <item
+        jar="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_aa0325c2c3f604f00285413a60f0e77311c098c6.jar" />
+    </item>
+    <item
+        jar="/Users/joye/develop/android/tools/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/joye/develop/android/workspace/MaterialDesignBasedExample/MaterialDesignExample/app/build/intermediates/pre-dexed/debug/gson-2.3_bf198c5c8f07c1853ef9612657321ef18a3f614b.jar" />
+    </item>
+
+</items>
